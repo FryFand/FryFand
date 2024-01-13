@@ -9,7 +9,7 @@
 ## My skills
 
 ### Frontend
-[<img align="left" alt="HTML5" src="https://ibb.co/5KP0GcY"/>]
+[<img align="left" alt="HTML5" src="file:///D:/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Java.png"/>]
 [<img align="left" alt="HTML5" src="https://ibb.co/3RPxxDz"/>]
 
 
