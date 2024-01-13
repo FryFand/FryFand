@@ -10,7 +10,7 @@
 
 ### Frontend
 <script async src="https://ibb.co/3RPxxDz"></script>
-[<img align="left" alt="HTML5" src="https://postimg.cc/XpjRmXDx"/>]
+[<img align="left" alt="JAVASCRIPT" src="https://postimg.cc/XpjRmXDx"/>]
 
 
 ### Backend
