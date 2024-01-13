@@ -1,7 +1,7 @@
 # I come in peace! Chow chow. I'm Maksym
 
-:mortar_board: Computer science student(space)
-:wrench: Java Minecraft developer(space)
+:mortar_board: Computer science student (space)
+:wrench: Java Minecraft developer (space)
 :computer: Creator [LEMBERG|UA](https://discord.gg/UnMYQw3QRs) community
 
 ## My skills
