@@ -10,7 +10,7 @@
 
 ### Frontend
 
-<img src="D:\Новая папка\HTML.png" />
+<img src="D:\Новая папка\HTML.png\" />
 [<img align="left" alt="JAVASCRIPT" src="D:\Новая папка\JAVASCRIPT.png"/>] 
 
 ### Backend
