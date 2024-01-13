@@ -9,7 +9,7 @@
 ## My skills
 
 ### Frontend
-<script async src="https://ibb.co/3RPxxDz"></script>
+[![HTML5.png](https://i.postimg.cc/cLkk0DKd/HTML5.png)](https://postimg.cc/0zm0C0d4)
 [![JAVASCRIPT.png](https://i.postimg.cc/ncBnsDK8/JAVASCRIPT.png)](https://postimg.cc/XpjRmXDx)
 
 
