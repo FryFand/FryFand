@@ -10,7 +10,7 @@
 
 ### Frontend
 [![HTML5.png](https://i.postimg.cc/638yFpk9/HTML5.png)](https://postimg.cc/VrcfCmsT)
-[![JAVASCRIPT.png](https://i.postimg.cc/pV0F033V/JAVASCRIPT.png)](https://postimg.cc/xqz88p0B)
+[![JAVASCRIPT.png](https://i.postimg.cc/HkTjd2qv/JAVASCRIPT.png)](https://postimg.cc/Yhytx1qQ)
 
 
 ### Backend
