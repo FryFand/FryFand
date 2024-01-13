@@ -25,6 +25,6 @@
 
 ## Contacts
 
-you can write at any time
+You can write to these contacts at any time:
 
 Discord: fryfand
