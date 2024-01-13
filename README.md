@@ -1,16 +1,28 @@
-### Hi there 👋
+#I come in peace! Chow chow. I'm Maksym
 
-<!--
-**FryFand/FryFand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board: Computer science student
+:wrench: Java Minecraft developer
+:computer: Creator [LEMBERG|UA](https://discord.gg/UnMYQw3QRs) community
 
-Here are some ideas to get you started:
+##My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Frontend
+
+[<img align="left" alt="HTML5" src="D:\Новая папка\HTML5.png"/>]
+[<img align="left" alt="JAVASCRIPT" src="D:\Новая папка\JAVASCRIPT.png"/>] 
+
+###Backend
+
+[<img align="left" alt="JAVA" src="D:\Новая папка\JAVA.png"/>]
+[<img align="left" alt="C++" src="D:\Новая папка\C++.png"/>]
+[<img align="left" alt="PYTHON" src="D:\Новая папка\PYTHON.png"/>]
+
+###Other
+
+[<img align="left" alt="ARDUINO" src="D:\Новая папка\ARDUINO.png"/>]
+
+##Contacts
+
+you can write at any time
+
+Discord: fryfand
