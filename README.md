@@ -9,7 +9,7 @@
 ## My skills
 
 ### Frontend
-[![HTML5.png](https://i.postimg.cc/3ryvcthg/HTML5.png)](https://postimg.cc/mhskcNtD)
+[![HTML5.png](https://i.postimg.cc/638yFpk9/HTML5.png)](https://postimg.cc/VrcfCmsT)
 [![JAVASCRIPT.png](https://i.postimg.cc/pV0F033V/JAVASCRIPT.png)](https://postimg.cc/xqz88p0B)
 
 
