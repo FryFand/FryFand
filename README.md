@@ -15,13 +15,13 @@
 
 ### Backend
 
-[<img align="left" alt="JAVA" src="D:\Новая папка\JAVA.png"/>]
-[<img align="left" alt="C++" src="D:\Новая папка\C++.png"/>]
-[<img align="left" alt="PYTHON" src="D:\Новая папка\PYTHON.png"/>]
+[![Java.png](https://i.postimg.cc/x8yYZr1f/Java.png)](https://postimg.cc/GT2ZB5DV)
+[![C.png](https://i.postimg.cc/BZxqbFcr/C.png)](https://postimg.cc/fkR4gJPC)
+[![PYTHON.png](https://i.postimg.cc/nc2pYtWT/PYTHON.png)](https://postimg.cc/ykDMs2sS)
 
 ### Other
 
-[<img align="left" alt="ARDUINO" src="D:\Новая папка\ARDUINO.png"/>]
+[![ARDUINO.png](https://i.postimg.cc/pLdxs6bv/ARDUINO.png)](https://postimg.cc/N5ZWMbjC)
 
 ## Contacts
 
